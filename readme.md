@@ -1,4 +1,4 @@
-# Microsoft Azure Data Fundamentals
+# Microsoft Azure Data Fundamentals demo1
 
 This repository contains the hands-on lab exercises for Microsoft course [DP-900 *Microsoft Azure Data Fundamentals*](https://docs.microsoft.com/en-us/learn/certifications/courses/dp-900t00) and the [self-paced modules on Microsoft Learn](https://docs.microsoft.com/en-us/users/23110622/collections/0kjyh8rn5gdrjj/). The labs are designed to accompany the learning materials and enable you to practice using the technologies they describe. 
 
